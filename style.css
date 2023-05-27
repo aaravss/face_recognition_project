@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#camera{
+    border-style: solid;
+    border-radius: 15px;
+    border-color: blue;
+    border-style: dashed;
+    margin-top: 20px;
+}
